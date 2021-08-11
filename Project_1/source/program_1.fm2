@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://namespaces.querix.com/2015/fglForms" title="Window title">
+	<form.rootContainer>
+		<GridPanel identifier="rootContainer" visible="true">
+			<GridPanel.gridColumnDefinitions>
+				<GridColumnDefinition gridLengthValue=""/>
+			</GridPanel.gridColumnDefinitions>
+			<GridPanel.gridRowDefinitions>
+				<GridRowDefinition gridLengthValue=""/>
+			</GridPanel.gridRowDefinitions>
+			<Label text="Label text" isDynamic="true" visible="true" identifier="lb1" gridItemLocation="0,0,1,1" horizontalAlignment="Center" verticalAlignment="Center"/>
+		</GridPanel>
+	</form.rootContainer>
+</form>
